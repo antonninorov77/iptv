@@ -1,0 +1,69 @@
+#EXTM3U url-tvg="http://pskovline.tv/epg/jtv.zip" m3uautoload=1 cache=500 deinterlace=8 aspect-ratio=none tvg-shift=0
+#EXTINF:-1 tvg-name="Rus_Today" deinterlace=6 group-title="Информационный" ,Russia Today HD
+udp://@239.1.6.171:1234
+#EXTINF:-1 tvg-name="ntv+19" group-title="Информационный" ,Евроновости
+udp://@239.1.35.138:1234
+#EXTINF:-1 tvg-name="ntv+32" group-title="Информационный" ,TV5Monde
+udp://@239.1.35.149:1234
+#EXTINF:-1 tvg-name="RT_DocHD" deinterlace=6 group-title="Информационный" ,Russia Today DOC HD
+udp://@239.1.6.172:1234
+#EXTINF:-1 tvg-name="Belarus-TV" group-title="Информационный" ,Беларусь 24
+udp://@239.1.39.132:1234
+#EXTINF:-1 tvg-name="ParaComedy" group-title="Развлечения" ,Paramount Comedy
+udp://@239.1.35.146:1234
+#EXTINF:-1 tvg-name="Disney" group-title="Детское" ,Disney
+udp://@239.1.3.144:1234
+#EXTINF:-1 tvg-name="ntv+15" group-title="Детское" ,Nickelodeon
+udp://@239.1.35.144:1234
+#EXTINF:-1 tvg-name="Ani" group-title="Детское" ,Ani
+udp://@239.1.3.136:1234
+#EXTINF:-1 tvg-name="JIMJAM" group-title="Детское" ,JimJam
+udp://@239.1.41.144:1234
+#EXTINF:-1 tvg-name="TiJi" group-title="Детское" ,TIJI
+udp://@239.1.35.134:1234
+#EXTINF:-1 tvg-name="Nick_Jr" group-title="Детское" ,Nick Jr.
+udp://@239.1.41.135:1234
+#EXTINF:-1 tvg-name="Super" group-title="Кино" ,Супер
+udp://@239.1.1.144:1234
+#EXTINF:-1 tvg-name="FOX LIFE" deinterlace=6 group-title="Кино" ,Fox Life HD
+udp://@239.1.34.171:1234
+#EXTINF:-1 tvg-name="FOX CRIME" deinterlace=6 group-title="Кино" ,Fox HD
+udp://@239.1.34.170:1234
+#EXTINF:-1 tvg-name="TV1000" group-title="Кино" ,TV1000
+udp://@239.1.23.143:1234
+#EXTINF:-1 tvg-name="TV1000_RK" group-title="Кино" ,TV1000 Русское кино
+udp://@239.1.23.141:1234
+#EXTINF:-1 tvg-name="TV1000_Act" group-title="Кино" ,TV1000 Action
+udp://@239.1.23.142:1234
+#EXTINF:-1 tvg-name="SET_RUSSIA" deinterlace=6 group-title="Кино" ,Set HD
+udp://@239.1.35.152:1234
+#EXTINF:-1 tvg-name="MGM_HD" deinterlace=6 group-title="Кино" ,Hollywood HD
+udp://@239.1.23.157:1234
+#EXTINF:-1 tvg-name="NSTV" group-title="Кино" ,НСТ
+udp://@239.1.3.148:1234
+#EXTINF:-1 tvg-name="Spike" group-title="Кино" ,Spike
+udp://@239.1.35.143:1234
+#EXTINF:-1 tvg-name="" group-title="Кино" ,Zee TV
+udp://@239.1.39.150:1234
+#EXTINF:-1 tvg-name="ntv+13" deinterlace=6 group-title="Спорт" ,EuroSport 1
+udp://@239.1.23.155:1234
+#EXTINF:-1 tvg-name="Via_Sport" group-title="Спорт" ,Viasat Sport
+udp://@239.1.23.147:1234
+#EXTINF:-1 tvg-name="" group-title="Спорт" ,M-1 Global
+udp://@239.1.1.183:1234
+#EXTINF:-1 tvg-name="NatGeoW_HD" deinterlace=6 group-title="Наука" ,Nat Geo Wild HD
+udp://@239.1.34.173:1234
+#EXTINF:-1 tvg-name="ntv+17" group-title="Наука" ,Animal Planet
+udp://@239.1.35.153:1234
+#EXTINF:-1 tvg-name="ntv+16" deinterlace=6 group-title="Наука" ,Discovery
+udp://@239.1.1.154:1234
+#EXTINF:-1 tvg-name="Nat_Geo_HD" deinterlace=6 group-title="Наука" ,National Geographic HD
+udp://@239.1.34.172:1234
+#EXTINF:-1 tvg-name="Nature_CEE" group-title="Наука" ,Viasat Nature
+udp://@239.1.23.163:1234
+#EXTINF:-1 tvg-name="History" group-title="Наука" ,Viasat History
+udp://@239.1.23.145:1234
+#EXTINF:-1 tvg-name="Da Vinci" group-title="Наука" ,Da Vinci
+udp://@239.1.23.140:1234
+#EXTINF:-1 tvg-name="Zoopark" group-title="Наука" ,Зоопарк
+udp://@239.1.6.135:1234
