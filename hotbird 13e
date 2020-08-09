@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://pskovline.tv/epg/jtv.zip"
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
 #EXTINF:1,Первый канал
 http://tvhls.pskovline.tv:8080/tv1/index.m3u8
 #EXTINF:2,Россия 1
