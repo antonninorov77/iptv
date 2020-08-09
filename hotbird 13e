@@ -1,337 +1,613 @@
-#EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
-#EXTINF:1,Первый канал
-http://tvhls.pskovline.tv:8080/tv1/index.m3u8
-#EXTINF:2,Россия 1
-http://tvhls.pskovline.tv:8080/tv2/index.m3u8
-#EXTINF:3,НТВ
-http://tvhls.pskovline.tv:8080/tv6/index.m3u8
-#EXTINF:4,Пятый канал
-http://tvhls.pskovline.tv:8080/tv79/index.m3u8
-#EXTINF:5,Россия 24
-http://tvhls.pskovline.tv:8080/tv5/index.m3u8
-#EXTINF:6,ОТР
-http://tvhls.pskovline.tv:8080/tv153/index.m3u8
-#EXTINF:7,ТВ Центр
-http://tvhls.pskovline.tv:8080/tv82/index.m3u8
-#EXTINF:8,Мир
-http://tvhls.pskovline.tv:8080/tv10/index.m3u8
-#EXTINF:9,Первый Псковский
-http://tvhls.pskovline.tv:8080/tv39/index.m3u8
-#EXTINF:10,IZ.RU
-http://tvhls.pskovline.tv:8080/tv64/index.m3u8
-#EXTINF:11,8 канал
-http://tvhls.pskovline.tv:8080/tv68/index.m3u8
-#EXTINF:12,Russia Today HD
-http://tvhls.pskovline.tv:8080/tv12/index.m3u8
-#EXTINF:13,Евроновости
-http://tvhls.pskovline.tv:8080/tv76/index.m3u8
-#EXTINF:14,Мир Premium
-http://tvhls.pskovline.tv:8080/tv101/index.m3u8
-#EXTINF:15,TV5Monde
-http://tvhls.pskovline.tv:8080/tv119/index.m3u8
-#EXTINF:16,Открытый мир
-http://tvhls.pskovline.tv:8080/tv124/index.m3u8
-#EXTINF:17,МИР24
-http://tvhls.pskovline.tv:8080/tv143/index.m3u8
-#EXTINF:18,Russia Today DOC HD
-http://tvhls.pskovline.tv:8080/tv144/index.m3u8
-#EXTINF:19,Беларусь 24
-http://tvhls.pskovline.tv:8080/tv172/index.m3u8
-#EXTINF:20,Время
-http://tvhls.pskovline.tv:8080/tv195/index.m3u8
-#EXTINF:21,ЛДПР ТВ
-http://tvhls.pskovline.tv:8080/tv233/index.m3u8
-#EXTINF:22,Рен ТВ
-http://tvhls.pskovline.tv:8080/tv8/index.m3u8
-#EXTINF:23,СТС
-http://tvhls.pskovline.tv:8080/tv13/index.m3u8
-#EXTINF:24,Домашний
-http://tvhls.pskovline.tv:8080/tv93/index.m3u8
-#EXTINF:25,Пятница
-http://tvhls.pskovline.tv:8080/tv28/index.m3u8
-#EXTINF:26,Звезда
-http://tvhls.pskovline.tv:8080/tv7/index.m3u8
-#EXTINF:27,ТНТ
-http://tvhls.pskovline.tv:8080/tv14/index.m3u8
-#EXTINF:28,ТНТ4
-http://tvhls.pskovline.tv:8080/tv18/index.m3u8
-#EXTINF:29,2x2
-http://tvhls.pskovline.tv:8080/tv19/index.m3u8
-#EXTINF:30,TLC
-http://tvhls.pskovline.tv:8080/tv27/index.m3u8
-#EXTINF:31,Рыболов
-http://tvhls.pskovline.tv:8080/tv15/index.m3u8
-#EXTINF:32,Моя планета
-http://tvhls.pskovline.tv:8080/tv34/index.m3u8
-#EXTINF:33,Ретро ТВ
-http://tvhls.pskovline.tv:8080/tv43/index.m3u8
-#EXTINF:34,365 дней
-http://tvhls.pskovline.tv:8080/tv45/index.m3u8
-#EXTINF:35,Комедия
-http://tvhls.pskovline.tv:8080/tv48/index.m3u8
-#EXTINF:36,Драйв ТВ
-http://tvhls.pskovline.tv:8080/tv49/index.m3u8
-#EXTINF:37,Охота и рыбалка
-http://tvhls.pskovline.tv:8080/tv50/index.m3u8
-#EXTINF:38,Viasat Explorer
-http://tvhls.pskovline.tv:8080/tv60/index.m3u8
-#EXTINF:39,Кухня ТВ
-http://tvhls.pskovline.tv:8080/tv69/index.m3u8
-#EXTINF:40,Авто Плюс
-http://tvhls.pskovline.tv:8080/tv71/index.m3u8
-#EXTINF:41,Сарафан ТВ
-http://tvhls.pskovline.tv:8080/tv75/index.m3u8
-#EXTINF:42,Че
-http://tvhls.pskovline.tv:8080/tv9/index.m3u8
-#EXTINF:43,Авто24
-http://tvhls.pskovline.tv:8080/tv83/index.m3u8
-#EXTINF:44,Ю ТВ
-http://tvhls.pskovline.tv:8080/tv92/index.m3u8
-#EXTINF:45,Теледом
-http://tvhls.pskovline.tv:8080/tv98/index.m3u8
-#EXTINF:46,Дикий
-http://tvhls.pskovline.tv:8080/tv100/index.m3u8
-#EXTINF:47,Здоровье
-http://tvhls.pskovline.tv:8080/tv114/index.m3u8
-#EXTINF:48,78 HD
-http://tvhls.pskovline.tv:8080/tv122/index.m3u8
-#EXTINF:49,Загородный
-http://tvhls.pskovline.tv:8080/tv135/index.m3u8
-#EXTINF:50,СТС HD
-http://tvhls.pskovline.tv:8080/tv136/index.m3u8
-#EXTINF:51,Домашний HD
-http://tvhls.pskovline.tv:8080/tv132/index.m3u8
-#EXTINF:52,Жара
-http://tvhls.pskovline.tv:8080/tv29/index.m3u8
-#EXTINF:53,БелРос
-http://tvhls.pskovline.tv:8080/tv40/index.m3u8
-#EXTINF:54,Русский экстрим
-http://tvhls.pskovline.tv:8080/tv170/index.m3u8
-#EXTINF:55,Paramount Comedy
-http://tvhls.pskovline.tv:8080/tv173/index.m3u8
-#EXTINF:56,СТС Love
-http://tvhls.pskovline.tv:8080/tv175/index.m3u8
-#EXTINF:57,Телекафе
-http://tvhls.pskovline.tv:8080/tv196/index.m3u8
-#EXTINF:58,Бобёр
-http://tvhls.pskovline.tv:8080/tv224/index.m3u8
-#EXTINF:59,Точка ТВ
-http://tvhls.pskovline.tv:8080/tv228/index.m3u8
-#EXTINF:60,Телеканал Е
-http://tvhls.pskovline.tv:8080/tv232/index.m3u8
-#EXTINF:61,FAN
-http://tvhls.pskovline.tv:8080/tv235/index.m3u8
-#EXTINF:62,КВН ТВ
-http://tvhls.pskovline.tv:8080/tv238/index.m3u8
-#EXTINF:63,Калейдоскоп ТВ
-http://tvhls.pskovline.tv:8080/tv187/index.m3u8
-#EXTINF:64,Карусель
-http://tvhls.pskovline.tv:8080/tv73/index.m3u8
-#EXTINF:65,Disney
-http://tvhls.pskovline.tv:8080/tv16/index.m3u8
-#EXTINF:66,Детский мир
-http://tvhls.pskovline.tv:8080/tv44/index.m3u8
-#EXTINF:67,Мама
-http://tvhls.pskovline.tv:8080/tv47/index.m3u8
-#EXTINF:68,О!
-http://tvhls.pskovline.tv:8080/tv51/index.m3u8
-#EXTINF:69,Nickelodeon
-http://tvhls.pskovline.tv:8080/tv74/index.m3u8
-#EXTINF:70,Радость моя
-http://tvhls.pskovline.tv:8080/tv103/index.m3u8
-#EXTINF:71,Мульт и Музыка
-http://tvhls.pskovline.tv:8080/tv109/index.m3u8
-#EXTINF:72,Ani
-http://tvhls.pskovline.tv:8080/tv120/index.m3u8
-#EXTINF:73,JimJam
-http://tvhls.pskovline.tv:8080/tv125/index.m3u8
-#EXTINF:74,TIJI
-http://tvhls.pskovline.tv:8080/tv130/index.m3u8
-#EXTINF:75,Nick Jr.
-http://tvhls.pskovline.tv:8080/tv138/index.m3u8
-#EXTINF:76,Детский
-http://tvhls.pskovline.tv:8080/tv166/index.m3u8
-#EXTINF:77,Мульт
-http://tvhls.pskovline.tv:8080/tv176/index.m3u8
-#EXTINF:78,Gulli Girl
-http://tvhls.pskovline.tv:8080/tv234/index.m3u8
-#EXTINF:79,МалышТВ
-http://tvhls.pskovline.tv:8080/tv237/index.m3u8
-#EXTINF:80,ТВ3
-http://tvhls.pskovline.tv:8080/tv67/index.m3u8
-#EXTINF:81,Супер
-http://tvhls.pskovline.tv:8080/tv164/index.m3u8
-#EXTINF:82,Fox Life HD
-http://tvhls.pskovline.tv:8080/tv23/index.m3u8
-#EXTINF:83,Fox HD
-http://tvhls.pskovline.tv:8080/tv24/index.m3u8
-#EXTINF:84,TV1000
-http://tvhls.pskovline.tv:8080/tv17/index.m3u8
-#EXTINF:85,Cinema
-http://tvhls.pskovline.tv:8080/tv38/index.m3u8
-#EXTINF:86,Индийское кино
-http://tvhls.pskovline.tv:8080/tv42/index.m3u8
-#EXTINF:87,Киномикс
-http://tvhls.pskovline.tv:8080/tv46/index.m3u8
-#EXTINF:88,Русский бестселлер
-http://tvhls.pskovline.tv:8080/tv56/index.m3u8
-#EXTINF:89,TV1000 Русское кино
-http://tvhls.pskovline.tv:8080/tv57/index.m3u8
-#EXTINF:90,TV1000 Action
-http://tvhls.pskovline.tv:8080/tv58/index.m3u8
-#EXTINF:91,Sony Sci-Fi
-http://tvhls.pskovline.tv:8080/tv21/index.m3u8
-#EXTINF:92,НТВ ХИТ
-http://tvhls.pskovline.tv:8080/tv70/index.m3u8
-#EXTINF:93,Кинопоказ
-http://tvhls.pskovline.tv:8080/tv72/index.m3u8
-#EXTINF:94,Наше новое кино
-http://tvhls.pskovline.tv:8080/tv90/index.m3u8
-#EXTINF:95,Set HD
-http://tvhls.pskovline.tv:8080/tv22/index.m3u8
-#EXTINF:96,Русский детектив
-http://tvhls.pskovline.tv:8080/tv105/index.m3u8
-#EXTINF:97,Hollywood HD
-http://tvhls.pskovline.tv:8080/tv108/index.m3u8
-#EXTINF:98,Sony Turbo
-http://tvhls.pskovline.tv:8080/tv128/index.m3u8
-#EXTINF:99,НСТ
-http://tvhls.pskovline.tv:8080/tv139/index.m3u8
-#EXTINF:100,Spike
-http://tvhls.pskovline.tv:8080/tv140/index.m3u8
-#EXTINF:101,Русский роман
-http://tvhls.pskovline.tv:8080/tv141/index.m3u8
-#EXTINF:102,Кинокомедия
-http://tvhls.pskovline.tv:8080/tv146/index.m3u8
-#EXTINF:103,Амедиа 1
-http://tvhls.pskovline.tv:8080/tv152/index.m3u8
-#EXTINF:104,Кино ТВ
-http://tvhls.pskovline.tv:8080/tv154/index.m3u8
-#EXTINF:105,Русский Иллюзион
-http://tvhls.pskovline.tv:8080/tv167/index.m3u8
-#EXTINF:106,Иллюзион+
-http://tvhls.pskovline.tv:8080/tv168/index.m3u8
-#EXTINF:107,Еврокино
-http://tvhls.pskovline.tv:8080/tv171/index.m3u8
-#EXTINF:108,Дом кино
-http://tvhls.pskovline.tv:8080/tv197/index.m3u8
-#EXTINF:109,Киносерия
-http://tvhls.pskovline.tv:8080/tv156/index.m3u8
-#EXTINF:110,Родное кино
-http://tvhls.pskovline.tv:8080/tv160/index.m3u8
-#EXTINF:111,Zee TV
-http://tvhls.pskovline.tv:8080/tv239/index.m3u8
-#EXTINF:112,Киноужас
-http://tvhls.pskovline.tv:8080/tv240/index.m3u8
-#EXTINF:113,Матч ТВ
-http://tvhls.pskovline.tv:8080/tv4/index.m3u8
-#EXTINF:114,EuroSport 1
-http://tvhls.pskovline.tv:8080/tv31/index.m3u8
-#EXTINF:115,Матч! Страна
-http://tvhls.pskovline.tv:8080/tv32/index.m3u8
-#EXTINF:116,Матч! Боец
-http://tvhls.pskovline.tv:8080/tv53/index.m3u8
-#EXTINF:117,Viasat Sport
-http://tvhls.pskovline.tv:8080/tv63/index.m3u8
-#EXTINF:118,Матч! Арена HD
-http://tvhls.pskovline.tv:8080/tv89/index.m3u8
-#EXTINF:119,БОКС ТВ
-http://tvhls.pskovline.tv:8080/tv94/index.m3u8
-#EXTINF:120,Живи
-http://tvhls.pskovline.tv:8080/tv97/index.m3u8
-#EXTINF:121,Матч! Игра
-http://tvhls.pskovline.tv:8080/tv106/index.m3u8
-#EXTINF:122,КХЛ
-http://tvhls.pskovline.tv:8080/tv127/index.m3u8
-#EXTINF:123,M-1 Global
-http://tvhls.pskovline.tv:8080/tv225/index.m3u8
-#EXTINF:124,Муз
-http://tvhls.pskovline.tv:8080/tv91/index.m3u8
-#EXTINF:125,1HD
-http://tvhls.pskovline.tv:8080/tv41/index.m3u8
-#EXTINF:126,RU.TV
-http://tvhls.pskovline.tv:8080/tv65/index.m3u8
-#EXTINF:127,ЕвропаПлюсТВ
-http://tvhls.pskovline.tv:8080/tv80/index.m3u8
-#EXTINF:128,ТНТ Music
-http://tvhls.pskovline.tv:8080/tv26/index.m3u8
-#EXTINF:129,RUSSIAN MUSICBOX
-http://tvhls.pskovline.tv:8080/tv95/index.m3u8
-#EXTINF:130,Ля-минор
-http://tvhls.pskovline.tv:8080/tv96/index.m3u8
-#EXTINF:131,BRIDGE TV
-http://tvhls.pskovline.tv:8080/tv104/index.m3u8
-#EXTINF:132,BRIDGE TV Русский Хит
-http://tvhls.pskovline.tv:8080/tv116/index.m3u8
-#EXTINF:133,BRIDGE TV HITS
-http://tvhls.pskovline.tv:8080/tv131/index.m3u8
-#EXTINF:134,Музыка Первого
-http://tvhls.pskovline.tv:8080/tv194/index.m3u8
-#EXTINF:135,BRIDGE TV CLASSIC
-http://tvhls.pskovline.tv:8080/tv155/index.m3u8
-#EXTINF:136,Nat Geo Wild HD
-http://tvhls.pskovline.tv:8080/tv25/index.m3u8
-#EXTINF:137,Animal Planet
-http://tvhls.pskovline.tv:8080/tv33/index.m3u8
-#EXTINF:138,Discovery
-http://tvhls.pskovline.tv:8080/tv35/index.m3u8
-#EXTINF:139,National Geographic HD
-http://tvhls.pskovline.tv:8080/tv36/index.m3u8
-#EXTINF:140,Усадьба
-http://tvhls.pskovline.tv:8080/tv52/index.m3u8
-#EXTINF:141,Планета HD
-http://tvhls.pskovline.tv:8080/tv54/index.m3u8
-#EXTINF:142,Вопросы и ответы
-http://tvhls.pskovline.tv:8080/tv55/index.m3u8
-#EXTINF:143,Viasat Nature
-http://tvhls.pskovline.tv:8080/tv59/index.m3u8
-#EXTINF:144,Viasat History
-http://tvhls.pskovline.tv:8080/tv61/index.m3u8
-#EXTINF:145,Da Vinci
-http://tvhls.pskovline.tv:8080/tv62/index.m3u8
-#EXTINF:146,Живая планета
-http://tvhls.pskovline.tv:8080/tv78/index.m3u8
-#EXTINF:147,RTG TV
-http://tvhls.pskovline.tv:8080/tv81/index.m3u8
-#EXTINF:148,Телепутешествия
-http://tvhls.pskovline.tv:8080/tv20/index.m3u8
-#EXTINF:149,Первый образовательный
-http://tvhls.pskovline.tv:8080/tv102/index.m3u8
-#EXTINF:150,Наука 2.0
-http://tvhls.pskovline.tv:8080/tv123/index.m3u8
-#EXTINF:151,ТДК
-http://tvhls.pskovline.tv:8080/tv115/index.m3u8
-#EXTINF:152,Нано
-http://tvhls.pskovline.tv:8080/tv133/index.m3u8
-#EXTINF:153,Оружие
-http://tvhls.pskovline.tv:8080/tv147/index.m3u8
-#EXTINF:154,Зоопарк
-http://tvhls.pskovline.tv:8080/tv169/index.m3u8
-#EXTINF:155,Техно 24
-http://tvhls.pskovline.tv:8080/tv177/index.m3u8
-#EXTINF:156,360°
-http://tvhls.pskovline.tv:8080/tv37/index.m3u8
-#EXTINF:157,Вместе РФ
-http://tvhls.pskovline.tv:8080/tv99/index.m3u8
-#EXTINF:158,Ювелирочка
-http://tvhls.pskovline.tv:8080/tv201/index.m3u8
-#EXTINF:159,Россия К
-http://tvhls.pskovline.tv:8080/tv3/index.m3u8
-#EXTINF:160,Спас
-http://tvhls.pskovline.tv:8080/tv134/index.m3u8
-#EXTINF:161,ТБН Россия
-http://tvhls.pskovline.tv:8080/tv66/index.m3u8
-#EXTINF:162,Три ангела
-http://tvhls.pskovline.tv:8080/tv113/index.m3u8
-#EXTINF:163,Союз
-http://tvhls.pskovline.tv:8080/tv117/index.m3u8
-#EXTINF:164,История
-http://tvhls.pskovline.tv:8080/tv151/index.m3u8
-#EXTINF:165,Красная Линия
-http://tvhls.pskovline.tv:8080/tv165/index.m3u8
-#EXTINF:166,Ностальгия
-http://tvhls.pskovline.tv:8080/tv186/index.m3u8
-#EXTINF:167,Кто есть кто
-http://tvhls.pskovline.tv:8080/tv181/index.m3u8
-#EXTINF:168,Победа
-http://tvhls.pskovline.tv:8080/tv241/index.m3u8
+#EXTM3U
+#EXTINF:-1 ,Первый канал (-1)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_1TV-1.m3u8
+#EXTINF:-1 ,Первый канал
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_1TV.m3u8
+#EXTINF:-1 ,Первый канал (+2)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_1TV_2.m3u8
+#EXTINF:-1 ,Первый канал (+4)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_1TV_4.m3u8
+#EXTINF:-1 ,Первый канал (+6)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_1TV_6.m3u8
+#EXTINF:-1 ,Первый канал (+7)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_1TV_7.m3u8
+#EXTINF:-1 ,Первый канал (+8)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_1TV_8.m3u8
+#EXTINF:-1 ,Первый канал (+9)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_1TV_9.m3u8
+#EXTINF:-1 ,Россия 1 (-1)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIA1-1.m3u8
+#EXTINF:-1 ,Россия 1
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIA1.m3u8
+#EXTINF:-1 ,Россия 1 (+2)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIA1_2.m3u8
+#EXTINF:-1 ,Россия 1 (+4)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIA1_4.m3u8
+#EXTINF:-1 ,Россия 1 (+6)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIA1_6.m3u8
+#EXTINF:-1 ,Россия 1 (+7)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIA1_7.m3u8
+#EXTINF:-1 ,Россия 1 (+8)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIA1_8.m3u8
+#EXTINF:-1 ,Россия 1 (+9)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIA1_9.m3u8
+#EXTINF:-1 ,Россия К (-1)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIAK-1.m3u8
+#EXTINF:-1 ,Россия К
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIAK.m3u8
+#EXTINF:-1 ,Россия К (+2)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIAK_2.m3u8
+#EXTINF:-1 ,Россия К (+4)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIAK_4.m3u8
+#EXTINF:-1 ,Россия К (+6)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIAK_6.m3u8
+#EXTINF:-1 ,Россия К (+7)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIAK_7.m3u8
+#EXTINF:-1 ,Россия 24
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIA24.m3u8
+#EXTINF:-1 ,Россия 24 (+2)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIA24_2.m3u8
+#EXTINF:-1 ,Россия 24 (+3)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIA24_3.m3u8
+#EXTINF:-1 ,Россия 24 (+6)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIA24_6.m3u8
+#EXTINF:-1 ,Пятый канал (-1)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_5TV-1.m3u8
+#EXTINF:-1 ,Пятый канал
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_5TV.m3u8
+#EXTINF:-1 ,Пятый канал (+2)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_5TV_2.m3u8
+#EXTINF:-1 ,Пятый канал (+4)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_5TV_4.m3u8
+#EXTINF:-1 ,Пятый канал (+6)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_5TV_6.m3u8
+#EXTINF:-1 ,Пятый канал (+7)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_5TV_7.m3u8
+#EXTINF:-1 ,Карусель (-1)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_KARUSEL-1.m3u8
+#EXTINF:-1 ,Карусель
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_KARUSEL.m3u8
+#EXTINF:-1 ,Карусель (+2)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_KARUSEL_2.m3u8
+#EXTINF:-1 ,Карусель (+4)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_KARUSEL_4.m3u8
+#EXTINF:-1 ,Карусель (+6)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_KARUSEL_6.m3u8
+#EXTINF:-1 ,Карусель (+7)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_KARUSEL_7.m3u8
+#EXTINF:-1 ,Карусель (+8)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_KARUSEL_8.m3u8
+#EXTINF:-1 ,Disney Channel (-1)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DISNEY-1.m3u8
+#EXTINF:-1 ,Disney Channel
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DISNEY.m3u8
+#EXTINF:-1 ,Disney Channel (+2)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DISNEY_2.m3u8
+#EXTINF:-1 ,Disney Channel (+4)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DISNEY_4.m3u8
+#EXTINF:-1 ,Disney Channel (+6)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DISNEY_6.m3u8
+#EXTINF:-1 ,Disney Channel (+7)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DISNEY_7.m3u8
+#EXTINF:-1 ,2x2 (-1)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_2X2-1.m3u8
+#EXTINF:-1 ,2x2
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_2X2.m3u8
+#EXTINF:-1 ,2x2 (+2)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_2X2_2.m3u8
+#EXTINF:-1 ,2x2 (+4)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_2X2_4.m3u8
+#EXTINF:-1 ,2x2 (+6)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_2X2_6.m3u8
+#EXTINF:-1 ,2x2 (+7)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_2X2_7.m3u8
+#EXTINF:-1 ,Russian Extreme Ultra HD
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIANEXTREMEULTRA_HLSHD.m3u8
+#EXTINF:-1 ,Russian Extreme Ultra QHD
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIANEXTREMEULTRA_HLSQHD.m3u8
+#EXTINF:-1 ,Russian Extreme Ultra UHD
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIANEXTREMEULTRA_HLSUHD.m3u8
+#EXTINF:-1 ,Eurosport4K HD
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_EUROSPORT4K_HLSHD.m3u8
+#EXTINF:-1 ,Eurosport4K QHD
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_EUROSPORT4K_HLSQHD.m3u8
+#EXTINF:-1 ,Eurosport4K UHD
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_EUROSPORT4K_HLSUHD.m3u8
+#EXTINF:-1 ,НТВ (-1)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NTV-1.m3u8
+#EXTINF:-1 ,НТВ
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NTV.m3u8
+#EXTINF:-1 ,НТВ (+2)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NTV_2.m3u8
+#EXTINF:-1 ,НТВ (+4)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NTV_4.m3u8
+#EXTINF:-1 ,НТВ (+6)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NTV_6.m3u8
+#EXTINF:-1 ,НТВ (+7)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NTV_7.m3u8
+#EXTINF:-1 ,РЕН ТВ (-1)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RENTV-1.m3u8
+#EXTINF:-1 ,РЕН ТВ
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RENTV.m3u8
+#EXTINF:-1 ,РЕН ТВ (+2)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RENTV_2.m3u8
+#EXTINF:-1 ,РЕН ТВ (+4)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RENTV_4.m3u8
+#EXTINF:-1 ,РЕН ТВ (+6)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RENTV_6.m3u8
+#EXTINF:-1 ,РЕН ТВ (+7)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RENTV_7.m3u8
+#EXTINF:-1 ,СТС (-1)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STS-1.m3u8
+#EXTINF:-1 ,СТС
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STS.m3u8
+#EXTINF:-1 ,СТС (+2)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STS_2.m3u8
+#EXTINF:-1 ,СТС (+4)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STS_4.m3u8
+#EXTINF:-1 ,СТС (+6)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STS_6.m3u8
+#EXTINF:-1 ,СТС (+7)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STS_7.m3u8
+#EXTINF:-1 ,СТС Love (-1)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STSLOVE-1.m3u8
+#EXTINF:-1 ,СТС Love
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STSLOVE.m3u8
+#EXTINF:-1 ,СТС Love (+2)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STSLOVE_2.m3u8
+#EXTINF:-1 ,СТС Love (+4)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STSLOVE_4.m3u8
+#EXTINF:-1 ,СТС Love (+6)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STSLOVE_6.m3u8
+#EXTINF:-1 ,СТС Love (+7)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STSLOVE_7.m3u8
+#EXTINF:-1 ,СТС МИР (Новосибирск)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STS_MIR_NSK.m3u8
+#EXTINF:-1 ,СТС ПРИМА (Красноярск)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STS_PRIMA_KRSK.m3u8
+#EXTINF:-1 ,ТНТ (-1)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TNT-1.m3u8
+#EXTINF:-1 ,ТНТ
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TNT.m3u8
+#EXTINF:-1 ,ТНТ (+2)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TNT_2.m3u8
+#EXTINF:-1 ,ТНТ (+4)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TNT_4.m3u8
+#EXTINF:-1 ,ТНТ (+6)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TNT_6.m3u8
+#EXTINF:-1 ,ТНТ (+7)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TNT_7.m3u8
+#EXTINF:-1 ,ТНТ4 (-1)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TNT4-1.m3u8
+#EXTINF:-1 ,ТНТ4
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TNT4.m3u8
+#EXTINF:-1 ,ТНТ4 (+2)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TNT4_2.m3u8
+#EXTINF:-1 ,ТНТ4 (+4)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TNT4_4.m3u8
+#EXTINF:-1 ,ТНТ4 (+6)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TNT4_6.m3u8
+#EXTINF:-1 ,ТНТ4 (+7)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TNT4_7.m3u8
+#EXTINF:-1 ,Супер (-1)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SUPER-1.m3u8
+#EXTINF:-1 ,Супер
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SUPER.m3u8
+#EXTINF:-1 ,Супер (+2)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SUPER_2.m3u8
+#EXTINF:-1 ,Супер (+4)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SUPER_4.m3u8
+#EXTINF:-1 ,Супер (+6)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SUPER_6.m3u8
+#EXTINF:-1 ,Супер (+7)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SUPER_7.m3u8
+#EXTINF:-1 ,ТВ3 (-1)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TV3-1.m3u8
+#EXTINF:-1 ,ТВ3
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TV3.m3u8
+#EXTINF:-1 ,ТВ3 (+2)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TV3_2.m3u8
+#EXTINF:-1 ,ТВ3 (+4)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TV3_4.m3u8
+#EXTINF:-1 ,ТВ3 (+6)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TV3_6.m3u8
+#EXTINF:-1 ,ТВ3 (+7)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TV3_7.m3u8
+#EXTINF:-1 ,Новый век (Тамбов)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NOVIY_VEK_TAMB.m3u8
+#EXTINF:-1 ,Ultra HD Cinema HD
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ULTRAHDCINEMA_HLSHD.m3u8
+#EXTINF:-1 ,Ultra HD Cinema QHD
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ULTRAHDCINEMA_HLSQHD.m3u8
+#EXTINF:-1 ,Ultra HD Cinema UHD
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ULTRAHDCINEMA_HLSUHD.m3u8
+#EXTINF:-1 ,Москва 24
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MOSKVA24.m3u8
+#EXTINF:-1 ,Москва Доверие
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MOSKVADOVERIE.m3u8
+#EXTINF:-1 ,Амурское Областное Телевидение
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_AOTV_BLAG.m3u8
+#EXTINF:-1 ,LOVE NATURE 4K HD
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_LOVENATURE4K_HLSHD.m3u8
+#EXTINF:-1 ,LOVE NATURE 4K QHD
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_LOVENATURE4K_HLSQHD.m3u8
+#EXTINF:-1 ,LOVE NATURE 4K UHD
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_LOVENATURE4K_HLSUHD.m3u8
+#EXTINF:-1 ,ТВЦ (-1)
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TVC-1.m3u8
+#EXTINF:-1 ,ТВЦ
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TVC.m3u8
+#EXTINF:-1 ,ТВЦ (+2)
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TVC_2.m3u8
+#EXTINF:-1 ,ТВЦ (+4)
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TVC_4.m3u8
+#EXTINF:-1 ,ТВЦ (+6)
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TVC_6.m3u8
+#EXTINF:-1 ,ТВЦ (+7)
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TVC_7.m3u8
+#EXTINF:-1 ,ОТР
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_OTR.m3u8
+#EXTINF:-1 ,СПАС (-1)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SPAS-1.m3u8
+#EXTINF:-1 ,СПАС
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SPAS.m3u8
+#EXTINF:-1 ,СПАС (+2)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SPAS_2.m3u8
+#EXTINF:-1 ,Звезда (-1)
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ZVEZDA-1.m3u8
+#EXTINF:-1 ,Звезда
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ZVEZDA.m3u8
+#EXTINF:-1 ,Звезда (+2)
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ZVEZDA_2.m3u8
+#EXTINF:-1 ,Звезда (+4)
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ZVEZDA_4.m3u8
+#EXTINF:-1 ,Звезда (+6)
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ZVEZDA_6.m3u8
+#EXTINF:-1 ,Звезда (+7)
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ZVEZDA_7.m3u8
+#EXTINF:-1 ,МИР (-1)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MIR-1.m3u8
+#EXTINF:-1 ,МИР
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MIR.m3u8
+#EXTINF:-1 ,МИР (+2)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MIR_2.m3u8
+#EXTINF:-1 ,МИР (+4)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MIR_4.m3u8
+#EXTINF:-1 ,МИР (+6)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MIR_6.m3u8
+#EXTINF:-1 ,МИР (+7)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MIR_7.m3u8
+#EXTINF:-1 ,Пятница! (-1)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_FRIDAY-1.m3u8
+#EXTINF:-1 ,Пятница!
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_FRIDAY.m3u8
+#EXTINF:-1 ,Пятница! (+2)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_FRIDAY_2.m3u8
+#EXTINF:-1 ,Пятница! (+4)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_FRIDAY_4.m3u8
+#EXTINF:-1 ,Пятница! (+6)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_FRIDAY_6.m3u8
+#EXTINF:-1 ,Пятница! (+7)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_FRIDAY_7.m3u8
+#EXTINF:-1 ,4 канал/Пятница! (Екатеринбург)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_4CH_EKT.m3u8
+#EXTINF:-1 ,Домашний (-1)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DOMASHNIY-1.m3u8
+#EXTINF:-1 ,Домашний
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DOMASHNIY.m3u8
+#EXTINF:-1 ,Домашний (+2)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DOMASHNIY_2.m3u8
+#EXTINF:-1 ,Домашний (+4)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DOMASHNIY_4.m3u8
+#EXTINF:-1 ,Домашний (+6)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DOMASHNIY_6.m3u8
+#EXTINF:-1 ,Домашний (+7)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DOMASHNIY_7.m3u8
+#EXTINF:-1 ,Домашний/Колыма+ (+8)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_KOLYMA_8.m3u8
+#EXTINF:-1 ,ОТВ HD (Екатеринбург)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_OTVHD_EKT.m3u8
+#EXTINF:-1 ,ОТВ МИАСС (Челябинск)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_OTV_MIASS_CHEL.m3u8
+#EXTINF:-1 ,ОТВ HD (Челябинск)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_OTVHD_CHEL.m3u8
+#EXTINF:-1 ,ОТВ (Владивосток)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_OTV_VLD.m3u8
+#EXTINF:-1 ,ОТВ Сахалин (Сахалин)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_OTV_SLIN.m3u8
+#EXTINF:-1 ,360° (Ульяновск)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_360_UL.m3u8
+#EXTINF:-1 ,Волгоград 1 HD (Волгоград)
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_VOLGOGRAD1HD_VGRAD.m3u8
+#EXTINF:-1 ,Волгоград 24 HD (Волгоград)
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_VOLGOGRAD24HD_VGRAD.m3u8
+#EXTINF:-1 ,Че! (-1)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_CHE-1.m3u8
+#EXTINF:-1 ,Че!
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_CHE.m3u8
+#EXTINF:-1 ,Че! (+2)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_CHE_2.m3u8
+#EXTINF:-1 ,Че! (+4)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_CHE_4.m3u8
+#EXTINF:-1 ,Че! (+6)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_CHE_6.m3u8
+#EXTINF:-1 ,Че! (+7)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_CHE_7.m3u8
+#EXTINF:-1 ,7 канал (Красноярск)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_7CHANNEL_KRSK.m3u8
+#EXTINF:-1 ,8 канал (Красноярск)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_8CHANNEL_KRSK.m3u8
+#EXTINF:-1 ,8 канал (Новосибирск)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_8CHANNEL_NSK.m3u8
+#EXTINF:-1 ,8 канал (Владивосток)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_8KANAL_VLD.m3u8
+#EXTINF:-1 ,8 канал HD (Владивосток)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_8KANALHD_VLD.m3u8
+#EXTINF:-1 ,Asia Amazing (Владивосток)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_ASIA_VLD.m3u8
+#EXTINF:-1 ,ТВК-6 канал HD (Красноярск)
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TVK6HD_KRSK.m3u8
+#EXTINF:-1 ,Кузбасс 1 (Кемерово)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_KUZBASS1_KEM.m3u8
+#EXTINF:-1 ,ТИВИСИ (Иркутск)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TIVICI_IRK.m3u8
+#EXTINF:-1 ,Орт Планета (Оренбург)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_ORTPLANET_ORB.m3u8
+#EXTINF:-1 ,Экспресс (Пенза)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_EXPRESS_PENZA.m3u8
+#EXTINF:-1 ,Моя Удмуртия (Ижевск)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MYUDMURTIA_IZHSK.m3u8
+#EXTINF:-1 ,Регион 29 (Архангельск)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_REGION29_ARKH.m3u8
+#EXTINF:-1 ,21+ (Мурманск)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TV21PLUS_MURM.m3u8
+#EXTINF:-1 ,Сампо ТВ  (Петрозаводск)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SAMPOTV_PZAV.m3u8
+#EXTINF:-1 ,РГВК Дагестан (Махачкала)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DAGESTAN_MAHACHK.m3u8
+#EXTINF:-1 ,Ингушетия (Магас)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_INGUSHETIYA_STAVR.m3u8
+#EXTINF:-1 ,ИОТ (Иваново)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_IOT_IVAN.m3u8
+#EXTINF:-1 ,Майкопское Телевидение (Майкопск)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MAYKOP_KRDAR.m3u8
+#EXTINF:-1 ,Кубань 24 (Краснодар)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_KUBAN24_KRDAR.m3u8
+#EXTINF:-1 ,Краснодар (Краснодар)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_KRASNODAR_KRDAR.m3u8
+#EXTINF:-1 ,#Ё Yotv24 (Самара)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_M1_SAMARA.m3u8
+#EXTINF:-1 ,МУЗ ТВ (-1)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MUZTV-1.m3u8
+#EXTINF:-1 ,МУЗ ТВ
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MUZTV.m3u8
+#EXTINF:-1 ,МУЗ ТВ (+2)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MUZTV_2.m3u8
+#EXTINF:-1 ,МУЗ ТВ (+4)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MUZTV_4.m3u8
+#EXTINF:-1 ,МУЗ ТВ (+6)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MUZTV_6.m3u8
+#EXTINF:-1 ,МУЗ ТВ (+7)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MUZTV_7.m3u8
+#EXTINF:-1 ,Девятка ТВ (Киров)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_9TV_KIROV.m3u8
+#EXTINF:-1 ,Архыз 24 (Черкесия)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_ARKHIZ24_CHERKS.m3u8
+#EXTINF:-1 ,Губерния (Самара)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_GUBERNIA_SAMARA.m3u8
+#EXTINF:-1 ,Губерния (Хабаровск)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_GUBERNIA_HVSK.m3u8
+#EXTINF:-1 ,TV Губерния (Воронеж)
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TVGUBERNIA_VRZH.m3u8
+#EXTINF:-1 ,Брянская губерния (Брянск)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_BRGUBERNIA_BRYANSK.m3u8
+#EXTINF:-1 ,Губерния 33 HD (Владимир)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_GUBERNIA33HD_VLAD.m3u8
+#EXTINF:-1 ,КТВ-Город (Воронеж)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_CTVGOROD_VRZH.m3u8
+#EXTINF:-1 ,Волга (Нижний Новгород)
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_VOLGA_NN.m3u8
+#EXTINF:-1 ,Саратов 24 (Саратов)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SARATOV24_SARATOV.m3u8
+#EXTINF:-1 ,Телевитрина-Восток (Новосибирск)
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_VITRINAVOSTOK_NSK.m3u8
+#EXTINF:-1 ,Продвижение СЭТ (Хабаровск)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_S3TTV_HVSK.m3u8
+#EXTINF:-1 ,Екатеринбург ТВ (Екатеринбург)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_EKBTV_EKT.m3u8
+#EXTINF:-1 ,Продвижение (Омск)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_PRODVIZHENIE_OMSK.m3u8
+#EXTINF:-1 ,Репортер 73 (Ульяновск)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_REP73_UL.m3u8
+#EXTINF:-1 ,Русский Север (Вологда)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSEVER_VLGD.m3u8
+#EXTINF:-1 ,РБК (Новосибирск)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RBC_NSK.m3u8
+#EXTINF:-1 ,СТВ-Байкал (Улан-Удэ)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STVBAYKAL_UUDE.m3u8
+#EXTINF:-1 ,Самара-Гис (Самара)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SAMARAGIS_SAMARA.m3u8
+#EXTINF:-1 ,Скат 24 (Самара)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SKAT24_SAMARA.m3u8
+#EXTINF:-1 ,UGRA Travel (Сургут)
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_UGRA_TRAVEL_SUR.m3u8
+#EXTINF:-1 ,Наши города (Сургут)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NGOR_SUR.m3u8
+#EXTINF:-1 ,С1 HD (Сургут)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_C1HD_SUR.m3u8
+#EXTINF:-1 ,Сургут 24 (Сургут)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SURGUT24_SUR.m3u8
+#EXTINF:-1 ,KURGAN.RU (Курган)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_KURRU_KRG.m3u8
+#EXTINF:-1 ,РИМ (Каменск-Уральский)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RIM_KURAL.m3u8
+#EXTINF:-1 ,ИНФО 24 HD (Курган)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SHINFOHD_KRG.m3u8
+#EXTINF:-1 ,ТНВ Планета (Казань)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TNV_PLANETA_NBK.m3u8
+#EXTINF:-1 ,ТНВ Татарстан (Казань)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TNVT_KZN.m3u8
+#EXTINF:-1 ,Татарстан 24 (Казань)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_EFIR24.m3u8
+#EXTINF:-1 ,TMTV (Казань)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TMTV_KZN.m3u8
+#EXTINF:-1 ,Майдан (Казань)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MAIDAN_KZN.m3u8
+#EXTINF:-1 ,UNIVER (Казань)
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_UNIVER_KZN.m3u8
+#EXTINF:-1 ,Хамдан (Элиста)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_HAMDAN_ELISTA.m3u8
+#EXTINF:-1 ,БСТ (Уфа)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_BST_UFA.m3u8
+#EXTINF:-1 ,Башкортостан 24 SD (Уфа)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_BASHKORTOSTAN24_UFA.m3u8
+#EXTINF:-1 ,МиГ ТВ (Красноуральск)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MIG_TV_KRASN.m3u8
+#EXTINF:-1 ,МИГ ТВ SD (Ноябрьск)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MIG_TVSD_YNF.m3u8
+#EXTINF:-1 ,НТН24 (Новосибирск)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NTN24_NSK.m3u8
+#EXTINF:-1 ,31 канал (Челябинск)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_31TV_CHEL.m3u8
+#EXTINF:-1 ,Якутия 24 (Якутск)
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_YKT24_YKT.m3u8
+#EXTINF:-1 ,Ямал-Регион
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_YAMREG_YNF.m3u8
+#EXTINF:-1 ,Осетия Ирыстон HD (Владикавказ)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_IRISTONHD_VKAZ.m3u8
+#EXTINF:-1 ,НОЯБРЬСК 24 HD (Ноябрьск)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NOY24HD_NOY.m3u8
+#EXTINF:-1 ,Арктика 24 HD (Ноябрьск)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_ARKTIKA24HD_NBK.m3u8
+#EXTINF:-1 ,Объектив 59 HD (Пермь)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_OBJECTIVE59HD_PERM.m3u8
+#EXTINF:-1 ,ЗИМА (Чебоксары)
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ZIMA_CHR.m3u8
+#EXTINF:-1 ,РИФЕЙ-ТВ (Пермь)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_REFEY_PERM.m3u8
+#EXTINF:-1 ,Крит ТВ (Пермь)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_KRITTV_PERM.m3u8
+#EXTINF:-1 ,UTV (Пермь)
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_UTV_PERM.m3u8
+#EXTINF:-1 ,Ветта 24 (Пермь)
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_VETTA24_PERM.m3u8
+#EXTINF:-1 ,Тагил-ТВ (Тагил)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TAGILTV_TAG.m3u8
+#EXTINF:-1 ,Теледом (Санкт-Петербург)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TELEDOM_SPB.m3u8
+#EXTINF:-1 ,Югра (Тюмень)
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_UGRA_TUM.m3u8
+#EXTINF:-1 ,Тюменское время (Тюмень)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TUMVREMYA_TUM.m3u8
+#EXTINF:-1 ,Томское время HD (Томск)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TOMSKVREMYAHD_TOMSK.m3u8
+#EXTINF:-1 ,Липецкое время HD (Липецк)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_LVREMYAHD_LIPETSK.m3u8
+#EXTINF:-1 ,ВОТ ТВ HD (Липецк)
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_VOTTVHD_LIPETSK.m3u8
+#EXTINF:-1 ,ЦЕНТР Красноярск ПРЕМИУМ
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_CENTRKRSN_KRSK.m3u8
+#EXTINF:-1 ,ОТС HD (Новосибирск)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_OTSHD_NSK.m3u8
+#EXTINF:-1 ,НСК 49 канал (Новосибирск)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NSK_49CHANNEL_NSK.m3u8
+#EXTINF:-1 ,!2 канал HD (Омск)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_12CHANNEL_OMSK.m3u8
+#EXTINF:-1 ,Енисей (Красноярск)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_ENISEY_KRSK.m3u8
+#EXTINF:-1 ,АИСТ (Иркутск)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_AIST_IRK.m3u8
+#EXTINF:-1 ,Заб.TV (Чита)
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ZABTV_CHITA.m3u8
+#EXTINF:-1 ,Альтес (Чита)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_ALTES_CHITA.m3u8
+#EXTINF:-1 ,Тивиком HD (Улан-Удэ)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TIVICOMHD_UUDE.m3u8
+#EXTINF:-1 ,АТВ MEDIA (Улан-удэ)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_ATVMEDIA_UUDE.m3u8
+#EXTINF:-1 ,Аригус (Улан-Удэ)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_ARIGUS_UUDE.m3u8
+#EXTINF:-1 ,Селенга ТВ (Улан-Удэ)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SELENGA_UUDE.m3u8
+#EXTINF:-1 ,Arirang KOREA
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_ARIRANGKOREA_HVSK.m3u8
+#EXTINF:-1 ,РТС (Абакан)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RTS_ABAKAN.m3u8
+#EXTINF:-1 ,Первый городской (Омск)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_1GORODSKOY_OMSK.m3u8
+#EXTINF:-1 ,Первый городской (Киров)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_1GORODSKOY_KIROV.m3u8
+#EXTINF:-1 ,Первый городской (Нижний Новгород)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_1GORODSKOY_NN.m3u8
+#EXTINF:-1 ,Первый областной (Орел)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_1OBLASTNOY_ORL.m3u8
+#EXTINF:-1 ,Городской (Брянск)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_GORODSKOY_BRYANSK.m3u8
+#EXTINF:-1 ,Первый Ярославский (Ярославль)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_1YAROSLAVSKY_YARL.m3u8
+#EXTINF:-1 ,Первый Тульский HD (Тула)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_1TULSKYHD_TUL.m3u8
+#EXTINF:-1 ,Афонтово (Красноярск)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_AFONTOVO_KRSK.m3u8
+#EXTINF:-1 ,Катунь 24 (Барнаул)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_KATUN24_BUL.m3u8
+#EXTINF:-1 ,Толк (Барнаул)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TOLK_BUL.m3u8
+#EXTINF:-1 ,НВК Саха (Якутск)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NVC_SAHA_YKT.m3u8
+#EXTINF:-1 ,Белгород 24 (Белгород)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_BELGOROD24_BELG.m3u8
+#EXTINF:-1 ,Мир Белогорья (Белгород)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MIR_BLGRYA_BELG.m3u8
+#EXTINF:-1 ,Вариант V (Владимир)
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_VARIANT_V_VLAD.m3u8
+#EXTINF:-1 ,Дзержинск ТВ (Нижний Новгород)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DZERZHINSK_NN.m3u8
+#EXTINF:-1 ,ННТВ (Нижний Новгород)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NNTV_NN.m3u8
+#EXTINF:-1 ,Ника ТВ (Калуга)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NIKATV_KALUGA.m3u8
+#EXTINF:-1 ,Тверской Проспект (Тверь)
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TVERSKOYPROSPEKT_TVER.m3u8
+#EXTINF:-1 ,ТКР (Рязань)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TKP_RYAZ.m3u8
+#EXTINF:-1 ,Наш дом (Пенза)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NASHDOM_PENZA.m3u8
+#EXTINF:-1 ,Каскад-24 (Калининград)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_KASKAD_KLGR.m3u8
+#EXTINF:-1 ,Чаваш Ен (Чебоксары)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NATIONALTV_CHR.m3u8
+#EXTINF:-1 ,Юрган (Сыктывкар)
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_URGAN_KOMI.m3u8
+#EXTINF:-1 ,Дон 24 HD (Ростов-на-Дону)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DON24HD_RD.m3u8
+#EXTINF:-1 ,Ростов-папа HD (Ростов)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_ROSTOVPAPAHD_RD.m3u8
+#EXTINF:-1 ,СВОЁ ТВ HD (Ставрополь)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SVOETVHD_STAVR.m3u8
+#EXTINF:-1 ,АТВ (Ставрополь)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_ATV_STAVR.m3u8
+#EXTINF:-1 ,Астрахань 24 HD (Астрахань)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_ASTRAKHAN24HD_ASTRH.m3u8
+#EXTINF:-1 ,Барс (Иваново)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_BARS_IVAN.m3u8
+#EXTINF:-1 ,ГТ-Регион (Ярославль)
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_GTREG_YARL.m3u8
+#EXTINF:-1 ,ТВ-ИН HD (Челябинск)
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TVINHD_CHEL.m3u8
+#EXTINF:-1 ,Ю (-1)
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_U-1.m3u8
+#EXTINF:-1 ,Ю
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_U.m3u8
+#EXTINF:-1 ,Ю (+2)
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_U_2.m3u8
+#EXTINF:-1 ,Ю (+4)
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_U_4.m3u8
+#EXTINF:-1 ,Ю (+6)
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_U_6.m3u8
+#EXTINF:-1 ,Ю (+7)
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_U_7.m3u8
+#EXTINF:-1 ,ЮТВ (Чебоксары)
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_UTV_CHR.m3u8
+#EXTINF:-1 ,Восток 24 (Владивосток)
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_VOSTOK24_VLD.m3u8
