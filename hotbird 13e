@@ -1,337 +1,337 @@
-#EXTM3U url-tvg="http://pskovline.tv/epg/jtv.zip" m3uautoload=1 cache=500 deinterlace=8 aspect-ratio=none tvg-shift=0
-#EXTINF:-1 tvg-name="1TV" deinterlace=6 group-title="Информационный" ,Первый канал
-udp://@239.1.35.5:1234
-#EXTINF:-1 tvg-name="RTR_REG" deinterlace=6 group-title="Информационный" ,Россия 1
-udp://@239.1.1.42:1234
-#EXTINF:-1 tvg-name="NTV" group-title="Информационный" ,НТВ
-udp://@239.1.22.5:1234
-#EXTINF:-1 tvg-name="Piter5_RUS" group-title="Информационный" ,Пятый канал
-udp://@239.1.3.12:1234
-#EXTINF:-1 tvg-name="Ves24" group-title="Информационный" ,Россия 24
-udp://@239.1.22.6:1234
-#EXTINF:-1 tvg-name="OTR" group-title="Информационный" ,ОТР
-udp://@239.1.3.53:1234
-#EXTINF:-1 tvg-name="TVC_REG" group-title="Информационный" ,ТВ Центр
-udp://@239.1.22.7:1234
-#EXTINF:-1 tvg-name="MIR" group-title="Информационный" ,Мир
-udp://@239.1.3.8:1234
-#EXTINF:-1 tvg-name="1Pskov" deinterlace=6 group-title="Информационный" ,Первый Псковский
-udp://@239.1.4.2:1234
-#EXTINF:-1 tvg-name="Izvestiy" deinterlace=6 group-title="Информационный" ,IZ.RU
-udp://@224.200.202.104:1234
-#EXTINF:-1 tvg-name="8_KANAL" group-title="Информационный" ,8 канал
-udp://@239.1.6.154:1234
-#EXTINF:-1 tvg-name="Rus_Today" deinterlace=6 group-title="Информационный" ,Russia Today HD
-udp://@239.1.6.171:1234
-#EXTINF:-1 tvg-name="ntv+19" group-title="Информационный" ,Евроновости
-udp://@239.1.35.138:1234
-#EXTINF:-1 tvg-name="MirHD" deinterlace=6 group-title="Информационный" ,Мир Premium
-udp://@239.1.3.7:1234
-#EXTINF:-1 tvg-name="ntv+32" group-title="Информационный" ,TV5Monde
-udp://@239.1.35.149:1234
-#EXTINF:-1 tvg-name="Openworld" group-title="Информационный" ,Открытый мир
-udp://@239.1.6.157:1234
-#EXTINF:-1 tvg-name="Mir24" group-title="Информационный" ,МИР24
-udp://@239.1.3.3:1234
-#EXTINF:-1 tvg-name="RT_DocHD" deinterlace=6 group-title="Информационный" ,Russia Today DOC HD
-udp://@239.1.6.172:1234
-#EXTINF:-1 tvg-name="Belarus-TV" group-title="Информационный" ,Беларусь 24
-udp://@239.1.39.132:1234
-#EXTINF:-1 tvg-name="Vremya" group-title="Информационный" ,Время
-udp://@239.1.1.173:1234
-#EXTINF:-1 tvg-name="LDPR" group-title="Информационный" ,ЛДПР ТВ
-udp://@239.1.3.153:1234
-#EXTINF:-1 tvg-name="RenTV_REG" group-title="Развлечения" ,Рен ТВ
-udp://@239.1.22.10:1234
-#EXTINF:-1 tvg-name="STS" group-title="Развлечения" ,СТС
-udp://@239.1.22.11:1234
-#EXTINF:-1 tvg-name="DOMASHNIY" group-title="Развлечения" ,Домашний
-udp://@239.1.22.15:1234
-#EXTINF:-1 tvg-name="Friday" group-title="Развлечения" ,Пятница
-udp://@239.1.3.11:1234
-#EXTINF:-1 tvg-name="ZVEZDA" group-title="Развлечения" ,Звезда
-udp://@239.1.3.20:1234
-#EXTINF:-1 tvg-name="TNT_REG" group-title="Развлечения" ,ТНТ
-udp://@239.1.22.13:1234
-#EXTINF:-1 tvg-name="TNT_4" group-title="Развлечения" ,ТНТ4
-udp://@239.1.1.143:1234
-#EXTINF:-1 tvg-name="2X2" group-title="Развлечения" ,2x2
-udp://@239.1.1.142:1234
-#EXTINF:-1 tvg-name="TLC" deinterlace=6 group-title="Развлечения" ,TLC
-udp://@239.1.41.151:1234
-#EXTINF:-1 tvg-name="Ohot&Ribal" group-title="Развлечения" ,Рыболов
-udp://@239.1.23.150:1234
-#EXTINF:-1 tvg-name="My_Planet" group-title="Развлечения" ,Моя планета
-udp://@239.1.6.160:1234
-#EXTINF:-1 tvg-name="Retro_MTU" group-title="Развлечения" ,Ретро ТВ
-udp://@239.1.6.130:1234
-#EXTINF:-1 tvg-name="365_day" group-title="Развлечения" ,365 дней
-udp://@239.1.41.150:1234
-#EXTINF:-1 tvg-name="Komedia1" group-title="Развлечения" ,Комедия
-udp://@239.1.39.137:1234
-#EXTINF:-1 tvg-name="Drive_MTU" group-title="Развлечения" ,Драйв ТВ
-udp://@239.1.6.131:1234
-#EXTINF:-1 tvg-name="Ha&Fi_MTU" group-title="Развлечения" ,Охота и рыбалка
-udp://@239.1.6.132:1234
-#EXTINF:-1 tvg-name="Explorer" group-title="Развлечения" ,Viasat Explorer
-udp://@239.1.23.144:1234
-#EXTINF:-1 tvg-name="Kuhna" group-title="Развлечения" ,Кухня ТВ
-udp://@239.1.41.156:1234
-#EXTINF:-1 tvg-name="autoplus" group-title="Развлечения" ,Авто Плюс
-udp://@239.1.41.158:1234
-#EXTINF:-1 tvg-name="sarafan-tv" group-title="Развлечения" ,Сарафан ТВ
-udp://@239.1.6.164:1234
-#EXTINF:-1 tvg-name="Che" group-title="Развлечения" ,Че
-udp://@239.1.34.168:1234
-#EXTINF:-1 tvg-name="Avto24" group-title="Развлечения" ,Авто24
-udp://@239.1.6.136:1234
-#EXTINF:-1 tvg-name="U" group-title="Развлечения" ,Ю ТВ
-udp://@239.1.3.146:1234
-#EXTINF:-1 tvg-name="Teledom" deinterlace=6 group-title="Развлечения" ,Теледом
-udp://@224.200.202.230:1234
-#EXTINF:-1 tvg-name="Dikiy" group-title="Развлечения" ,Дикий
-udp://@239.1.35.155:1234
-#EXTINF:-1 tvg-name="TONUS-TV" group-title="Развлечения" ,Здоровье
-udp://@239.1.41.161:1234
-#EXTINF:-1 tvg-name="100TV" deinterlace=6 group-title="Развлечения" ,78 HD
-udp://@224.200.202.220:1234
-#EXTINF:-1 tvg-name="zagorodny" group-title="Развлечения" ,Загородный
-udp://@239.1.41.160:1234
-#EXTINF:-1 tvg-name="STS" deinterlace=6 group-title="Развлечения" ,СТС HD
-udp://@224.200.202.216:1234
-#EXTINF:-1 tvg-name="DOMASHNIY" deinterlace=6 group-title="Развлечения" ,Домашний HD
-udp://@224.200.202.217:1234
-#EXTINF:-1 tvg-name="Bulvar" group-title="Развлечения" ,Жара
-udp://@239.1.41.157:1234
-#EXTINF:-1 tvg-name="TRO" group-title="Развлечения" ,БелРос
-udp://@239.1.3.132:1234
-#EXTINF:-1 tvg-name="RU_Extrem" group-title="Развлечения" ,Русский экстрим
-udp://@239.1.34.185:1234
-#EXTINF:-1 tvg-name="ParaComedy" group-title="Развлечения" ,Paramount Comedy
-udp://@239.1.35.146:1234
-#EXTINF:-1 tvg-name="STSLove" group-title="Развлечения" ,СТС Love
-udp://@239.1.34.169:1234
-#EXTINF:-1 tvg-name="Telekafe" group-title="Развлечения" ,Телекафе
-udp://@239.1.1.174:1234
-#EXTINF:-1 tvg-name="Bober" group-title="Развлечения" ,Бобёр
-udp://@239.1.1.176:1234
-#EXTINF:-1 tvg-name="ToshkaTV" group-title="Развлечения" ,Точка ТВ
-udp://@239.1.3.143:1234
-#EXTINF:-1 tvg-name="Game_Show" group-title="Развлечения" ,Телеканал Е
-udp://@239.1.34.134:1234
-#EXTINF:-1 tvg-name="fan" group-title="Развлечения" ,FAN
-udp://@239.1.6.166:1234
-#EXTINF:-1 tvg-name="" group-title="Развлечения" ,КВН ТВ
-udp://@239.1.41.169:1234
-#EXTINF:-1 tvg-name="" group-title="Развлечения" ,Калейдоскоп ТВ
-udp://@239.1.6.155:1234
-#EXTINF:-1 tvg-name="Karusel" group-title="Детское" ,Карусель
-udp://@239.1.3.16:1234
-#EXTINF:-1 tvg-name="Disney" group-title="Детское" ,Disney
-udp://@239.1.3.144:1234
-#EXTINF:-1 tvg-name="ntv+39+8" group-title="Детское" ,Детский мир
-udp://@239.1.6.158:1234
-#EXTINF:-1 tvg-name="Mother&Chi" group-title="Детское" ,Мама
-udp://@239.1.3.149:1234
-#EXTINF:-1 tvg-name="O" group-title="Детское" ,О!
-udp://@239.1.1.175:1234
-#EXTINF:-1 tvg-name="ntv+15" group-title="Детское" ,Nickelodeon
-udp://@239.1.35.144:1234
-#EXTINF:-1 tvg-name="Radost_moj" group-title="Детское" ,Радость моя
-udp://@239.1.6.153:1234
-#EXTINF:-1 tvg-name="Multmuzika" group-title="Детское" ,Мульт и Музыка
-udp://@239.1.6.163:1234
-#EXTINF:-1 tvg-name="Ani" group-title="Детское" ,Ani
-udp://@239.1.3.136:1234
-#EXTINF:-1 tvg-name="JIMJAM" group-title="Детское" ,JimJam
-udp://@239.1.41.144:1234
-#EXTINF:-1 tvg-name="TiJi" group-title="Детское" ,TIJI
-udp://@239.1.35.134:1234
-#EXTINF:-1 tvg-name="Nick_Jr" group-title="Детское" ,Nick Jr.
-udp://@239.1.41.135:1234
-#EXTINF:-1 tvg-name="Detskiy" group-title="Детское" ,Детский
-udp://@239.1.6.142:1234
-#EXTINF:-1 tvg-name="Mult" group-title="Детское" ,Мульт
-udp://@239.1.39.134:1234
-#EXTINF:-1 tvg-name="Gulli" group-title="Детское" ,Gulli Girl
-udp://@239.1.35.135:1234
-#EXTINF:-1 tvg-name="" group-title="Детское" ,МалышТВ
-udp://@239.1.41.176:1234
-#EXTINF:-1 tvg-name="TV3_REG" group-title="Кино" ,ТВ3
-udp://@239.1.22.12:1234
-#EXTINF:-1 tvg-name="Super" group-title="Кино" ,Супер
-udp://@239.1.1.144:1234
-#EXTINF:-1 tvg-name="FOX LIFE" deinterlace=6 group-title="Кино" ,Fox Life HD
-udp://@239.1.34.171:1234
-#EXTINF:-1 tvg-name="FOX CRIME" deinterlace=6 group-title="Кино" ,Fox HD
-udp://@239.1.34.170:1234
-#EXTINF:-1 tvg-name="TV1000" group-title="Кино" ,TV1000
-udp://@239.1.23.143:1234
-#EXTINF:-1 tvg-name="Park_Razvl" group-title="Кино" ,Cinema
-udp://@239.1.3.151:1234
-#EXTINF:-1 tvg-name="India" group-title="Кино" ,Индийское кино
-udp://@239.1.41.153:1234
-#EXTINF:-1 tvg-name="ntv+34" group-title="Кино" ,Киномикс
-udp://@239.1.41.154:1234
-#EXTINF:-1 tvg-name="Rus-Bestst" group-title="Кино" ,Русский бестселлер
-udp://@239.1.6.165:1234
-#EXTINF:-1 tvg-name="TV1000_RK" group-title="Кино" ,TV1000 Русское кино
-udp://@239.1.23.141:1234
-#EXTINF:-1 tvg-name="TV1000_Act" group-title="Кино" ,TV1000 Action
-udp://@239.1.23.142:1234
-#EXTINF:-1 tvg-name="AXNSciFi" group-title="Кино" ,Sony Sci-Fi
-udp://@239.1.35.139:1234
-#EXTINF:-1 tvg-name="" group-title="Кино" ,НТВ ХИТ
-udp://@239.1.41.168:1234
-#EXTINF:-1 tvg-name="Kinipokaz" group-title="Кино" ,Кинопоказ
-udp://@239.1.41.131:1234
-#EXTINF:-1 tvg-name="ntv+7" group-title="Кино" ,Наше новое кино
-udp://@239.1.41.155:1234
-#EXTINF:-1 tvg-name="SET_RUSSIA" deinterlace=6 group-title="Кино" ,Set HD
-udp://@239.1.35.152:1234
-#EXTINF:-1 tvg-name="RuDetektiv" group-title="Кино" ,Русский детектив
-udp://@239.1.39.138:1234
-#EXTINF:-1 tvg-name="MGM_HD" deinterlace=6 group-title="Кино" ,Hollywood HD
-udp://@239.1.23.157:1234
-#EXTINF:-1 tvg-name="SonyTurbo" group-title="Кино" ,Sony Turbo
-udp://@239.1.35.140:1234
-#EXTINF:-1 tvg-name="NSTV" group-title="Кино" ,НСТ
-udp://@239.1.3.148:1234
-#EXTINF:-1 tvg-name="Spike" group-title="Кино" ,Spike
-udp://@239.1.35.143:1234
-#EXTINF:-1 tvg-name="RusRoman" group-title="Кино" ,Русский роман
-udp://@239.1.6.162:1234
-#EXTINF:-1 tvg-name="Komedia" group-title="Кино" ,Кинокомедия
-udp://@239.1.41.159:1234
-#EXTINF:-1 tvg-name="Amedia1" group-title="Кино" ,Амедиа 1
-udp://@239.1.41.177:1234
-#EXTINF:-1 tvg-name="KinoTV" group-title="Кино" ,Кино ТВ
-udp://@239.1.39.135:1234
-#EXTINF:-1 tvg-name="RU_ILLusio" group-title="Кино" ,Русский Иллюзион
-udp://@239.1.6.139:1234
-#EXTINF:-1 tvg-name="ILLUSION+" group-title="Кино" ,Иллюзион+
-udp://@239.1.6.138:1234
-#EXTINF:-1 tvg-name="EuroKINO" group-title="Кино" ,Еврокино
-udp://@239.1.6.137:1234
-#EXTINF:-1 tvg-name="DomKino" group-title="Кино" ,Дом кино
-udp://@239.1.1.172:1234
-#EXTINF:-1 tvg-name="mnogoTV" group-title="Кино" ,Киносерия
-udp://@239.1.41.165:1234
-#EXTINF:-1 tvg-name="ntv+3" group-title="Кино" ,Родное кино
-udp://@239.1.41.164:1234
-#EXTINF:-1 tvg-name="" group-title="Кино" ,Zee TV
-udp://@239.1.39.150:1234
-#EXTINF:-1 tvg-name="" group-title="Кино" ,Киноужас
-udp://@239.1.1.184:1234
-#EXTINF:-1 tvg-name="MatchTV" deinterlace=6 group-title="Спорт" ,Матч ТВ
-udp://@239.1.35.4:1234
-#EXTINF:-1 tvg-name="ntv+13" deinterlace=6 group-title="Спорт" ,EuroSport 1
-udp://@239.1.23.155:1234
-#EXTINF:-1 tvg-name="Mstrana" group-title="Спорт" ,Матч! Страна
-udp://@239.1.1.182:1234
-#EXTINF:-1 tvg-name="boets" group-title="Спорт" ,Матч! Боец
-udp://@239.1.1.180:1234
-#EXTINF:-1 tvg-name="Via_Sport" group-title="Спорт" ,Viasat Sport
-udp://@239.1.23.147:1234
-#EXTINF:-1 tvg-name="Matcharena" deinterlace=6 group-title="Спорт" ,Матч! Арена HD
-udp://@239.1.1.151:1234
-#EXTINF:-1 tvg-name="" group-title="Спорт" ,БОКС ТВ
-udp://@239.1.41.134:1234
-#EXTINF:-1 tvg-name="JiVi" group-title="Спорт" ,Живи
-udp://@239.1.39.151:1234
-#EXTINF:-1 tvg-name="Matchigra" group-title="Спорт" ,Матч! Игра
-udp://@239.1.1.181:1234
-#EXTINF:-1 tvg-name="ntv+9" group-title="Спорт" ,КХЛ
-udp://@239.1.1.152:1234
-#EXTINF:-1 tvg-name="" group-title="Спорт" ,M-1 Global
-udp://@239.1.1.183:1234
-#EXTINF:-1 tvg-name="MUZ_TVnew" group-title="Музыка" ,Муз
-udp://@239.1.22.14:1234
-#EXTINF:-1 tvg-name="1HD" deinterlace=6 group-title="Музыка" ,1HD
-udp://@224.200.202.101:1234
-#EXTINF:-1 tvg-name="RU-TV" group-title="Музыка" ,RU.TV
-udp://@239.1.34.146:1234
-#EXTINF:-1 tvg-name="EuropaPlus" group-title="Музыка" ,ЕвропаПлюсТВ
-udp://@239.1.41.152:1234
-#EXTINF:-1 tvg-name="A-ONE" group-title="Музыка" ,ТНТ Music
-udp://@239.1.34.140:1234
-#EXTINF:-1 tvg-name="MusicBox-R" group-title="Музыка" ,RUSSIAN MUSICBOX
-udp://@239.1.34.150:1234
-#EXTINF:-1 tvg-name="" group-title="Музыка" ,Ля-минор
-udp://@239.1.41.167:1234
-#EXTINF:-1 tvg-name="Bridge-TV" group-title="Музыка" ,BRIDGE TV
-udp://@239.1.34.180:1234
-#EXTINF:-1 tvg-name="Rusong_TV" group-title="Музыка" ,BRIDGE TV Русский Хит
-udp://@239.1.34.184:1234
-#EXTINF:-1 tvg-name="DangeTV" group-title="Музыка" ,BRIDGE TV HITS
-udp://@239.1.41.128:1234
-#EXTINF:-1 tvg-name="MuZ-One" group-title="Музыка" ,Музыка Первого
-udp://@239.1.1.171:1234
-#EXTINF:-1 tvg-name="TOPSONG_T" group-title="Музыка" ,BRIDGE TV CLASSIC
-udp://@239.1.41.129:1234
-#EXTINF:-1 tvg-name="NatGeoW_HD" deinterlace=6 group-title="Наука" ,Nat Geo Wild HD
-udp://@239.1.34.173:1234
-#EXTINF:-1 tvg-name="ntv+17" group-title="Наука" ,Animal Planet
-udp://@239.1.35.153:1234
-#EXTINF:-1 tvg-name="ntv+16" deinterlace=6 group-title="Наука" ,Discovery
-udp://@239.1.1.154:1234
-#EXTINF:-1 tvg-name="Nat_Geo_HD" deinterlace=6 group-title="Наука" ,National Geographic HD
-udp://@239.1.34.172:1234
-#EXTINF:-1 tvg-name="Usadba_MTU" group-title="Наука" ,Усадьба
-udp://@239.1.6.134:1234
-#EXTINF:-1 tvg-name="IQHD" deinterlace=6 group-title="Наука" ,Планета HD
-udp://@239.1.34.133:1234
-#EXTINF:-1 tvg-name="Vopr-Otvet" group-title="Наука" ,Вопросы и ответы
-udp://@239.1.6.133:1234
-#EXTINF:-1 tvg-name="Nature_CEE" group-title="Наука" ,Viasat Nature
-udp://@239.1.23.163:1234
-#EXTINF:-1 tvg-name="History" group-title="Наука" ,Viasat History
-udp://@239.1.23.145:1234
-#EXTINF:-1 tvg-name="Da Vinci" group-title="Наука" ,Da Vinci
-udp://@239.1.23.140:1234
-#EXTINF:-1 tvg-name="GivPlaneta" group-title="Наука" ,Живая планета
-udp://@239.1.3.152:1234
-#EXTINF:-1 tvg-name="RTG_TV" group-title="Наука" ,RTG TV
-udp://@239.1.34.181:1234
-#EXTINF:-1 tvg-name="Teletravel" group-title="Наука" ,Телепутешествия
-udp://@239.1.23.151:1234
-#EXTINF:-1 tvg-name="1Obrazovat" group-title="Наука" ,Первый образовательный
-udp://@239.1.41.175:1234
-#EXTINF:-1 tvg-name="Nauka_2.0" group-title="Наука" ,Наука 2.0
-udp://@239.1.6.161:1234
-#EXTINF:-1 tvg-name="TDK" group-title="Наука" ,ТДК
-udp://@239.1.41.180:1234
-#EXTINF:-1 tvg-name="NANO_TV" group-title="Наука" ,Нано
-udp://@239.1.3.155:1234
-#EXTINF:-1 tvg-name="Weapons" group-title="Наука" ,Оружие
-udp://@239.1.3.131:1234
-#EXTINF:-1 tvg-name="Zoopark" group-title="Наука" ,Зоопарк
-udp://@239.1.6.135:1234
-#EXTINF:-1 tvg-name="Tehno24" group-title="Наука" ,Техно 24
-udp://@239.1.3.150:1234
-#EXTINF:-1 tvg-name="360d" group-title="Бизнес" ,360°
-udp://@239.1.6.144:1234
-#EXTINF:-1 tvg-name="SovetFeder" group-title="Бизнес" ,Вместе РФ
-udp://@239.1.6.156:1234
-#EXTINF:-1 tvg-name="Uvelir" group-title="Бизнес" ,Ювелирочка
-udp://@239.1.35.137:1234
-#EXTINF:-1 tvg-name="KUL" group-title="Культура" ,Россия К
-udp://@239.1.3.13:1234
-#EXTINF:-1 tvg-name="SPAS" group-title="Культура" ,Спас
-udp://@239.1.3.10:1234
-#EXTINF:-1 tvg-name="TBN" group-title="Культура" ,ТБН Россия
-udp://@239.1.3.156:1234
-#EXTINF:-1 tvg-name="3Angela" group-title="Культура" ,Три ангела
-udp://@239.1.34.182:1234
-#EXTINF:-1 tvg-name="Sojuz" group-title="Культура" ,Союз
-udp://@239.1.35.136:1234
-#EXTINF:-1 tvg-name="Istoria" group-title="Культура" ,История
-udp://@239.1.39.136:1234
-#EXTINF:-1 tvg-name="KrasLin" group-title="Культура" ,Красная Линия
-udp://@239.1.3.154:1234
-#EXTINF:-1 tvg-name="Nostalgi" group-title="Культура" ,Ностальгия
-udp://@239.1.41.163:1234
-#EXTINF:-1 tvg-name="Who_is_who" group-title="Культура" ,Кто есть кто
-udp://@239.1.41.166:1234
-#EXTINF:-1 tvg-name="" group-title="Культура" ,Победа
-udp://@239.1.1.177:1234
+#EXTM3U url-tvg="http://pskovline.tv/epg/jtv.zip"
+#EXTINF:1,Первый канал
+http://tvhls.pskovline.tv:8080/tv1/index.m3u8
+#EXTINF:2,Россия 1
+http://tvhls.pskovline.tv:8080/tv2/index.m3u8
+#EXTINF:3,НТВ
+http://tvhls.pskovline.tv:8080/tv6/index.m3u8
+#EXTINF:4,Пятый канал
+http://tvhls.pskovline.tv:8080/tv79/index.m3u8
+#EXTINF:5,Россия 24
+http://tvhls.pskovline.tv:8080/tv5/index.m3u8
+#EXTINF:6,ОТР
+http://tvhls.pskovline.tv:8080/tv153/index.m3u8
+#EXTINF:7,ТВ Центр
+http://tvhls.pskovline.tv:8080/tv82/index.m3u8
+#EXTINF:8,Мир
+http://tvhls.pskovline.tv:8080/tv10/index.m3u8
+#EXTINF:9,Первый Псковский
+http://tvhls.pskovline.tv:8080/tv39/index.m3u8
+#EXTINF:10,IZ.RU
+http://tvhls.pskovline.tv:8080/tv64/index.m3u8
+#EXTINF:11,8 канал
+http://tvhls.pskovline.tv:8080/tv68/index.m3u8
+#EXTINF:12,Russia Today HD
+http://tvhls.pskovline.tv:8080/tv12/index.m3u8
+#EXTINF:13,Евроновости
+http://tvhls.pskovline.tv:8080/tv76/index.m3u8
+#EXTINF:14,Мир Premium
+http://tvhls.pskovline.tv:8080/tv101/index.m3u8
+#EXTINF:15,TV5Monde
+http://tvhls.pskovline.tv:8080/tv119/index.m3u8
+#EXTINF:16,Открытый мир
+http://tvhls.pskovline.tv:8080/tv124/index.m3u8
+#EXTINF:17,МИР24
+http://tvhls.pskovline.tv:8080/tv143/index.m3u8
+#EXTINF:18,Russia Today DOC HD
+http://tvhls.pskovline.tv:8080/tv144/index.m3u8
+#EXTINF:19,Беларусь 24
+http://tvhls.pskovline.tv:8080/tv172/index.m3u8
+#EXTINF:20,Время
+http://tvhls.pskovline.tv:8080/tv195/index.m3u8
+#EXTINF:21,ЛДПР ТВ
+http://tvhls.pskovline.tv:8080/tv233/index.m3u8
+#EXTINF:22,Рен ТВ
+http://tvhls.pskovline.tv:8080/tv8/index.m3u8
+#EXTINF:23,СТС
+http://tvhls.pskovline.tv:8080/tv13/index.m3u8
+#EXTINF:24,Домашний
+http://tvhls.pskovline.tv:8080/tv93/index.m3u8
+#EXTINF:25,Пятница
+http://tvhls.pskovline.tv:8080/tv28/index.m3u8
+#EXTINF:26,Звезда
+http://tvhls.pskovline.tv:8080/tv7/index.m3u8
+#EXTINF:27,ТНТ
+http://tvhls.pskovline.tv:8080/tv14/index.m3u8
+#EXTINF:28,ТНТ4
+http://tvhls.pskovline.tv:8080/tv18/index.m3u8
+#EXTINF:29,2x2
+http://tvhls.pskovline.tv:8080/tv19/index.m3u8
+#EXTINF:30,TLC
+http://tvhls.pskovline.tv:8080/tv27/index.m3u8
+#EXTINF:31,Рыболов
+http://tvhls.pskovline.tv:8080/tv15/index.m3u8
+#EXTINF:32,Моя планета
+http://tvhls.pskovline.tv:8080/tv34/index.m3u8
+#EXTINF:33,Ретро ТВ
+http://tvhls.pskovline.tv:8080/tv43/index.m3u8
+#EXTINF:34,365 дней
+http://tvhls.pskovline.tv:8080/tv45/index.m3u8
+#EXTINF:35,Комедия
+http://tvhls.pskovline.tv:8080/tv48/index.m3u8
+#EXTINF:36,Драйв ТВ
+http://tvhls.pskovline.tv:8080/tv49/index.m3u8
+#EXTINF:37,Охота и рыбалка
+http://tvhls.pskovline.tv:8080/tv50/index.m3u8
+#EXTINF:38,Viasat Explorer
+http://tvhls.pskovline.tv:8080/tv60/index.m3u8
+#EXTINF:39,Кухня ТВ
+http://tvhls.pskovline.tv:8080/tv69/index.m3u8
+#EXTINF:40,Авто Плюс
+http://tvhls.pskovline.tv:8080/tv71/index.m3u8
+#EXTINF:41,Сарафан ТВ
+http://tvhls.pskovline.tv:8080/tv75/index.m3u8
+#EXTINF:42,Че
+http://tvhls.pskovline.tv:8080/tv9/index.m3u8
+#EXTINF:43,Авто24
+http://tvhls.pskovline.tv:8080/tv83/index.m3u8
+#EXTINF:44,Ю ТВ
+http://tvhls.pskovline.tv:8080/tv92/index.m3u8
+#EXTINF:45,Теледом
+http://tvhls.pskovline.tv:8080/tv98/index.m3u8
+#EXTINF:46,Дикий
+http://tvhls.pskovline.tv:8080/tv100/index.m3u8
+#EXTINF:47,Здоровье
+http://tvhls.pskovline.tv:8080/tv114/index.m3u8
+#EXTINF:48,78 HD
+http://tvhls.pskovline.tv:8080/tv122/index.m3u8
+#EXTINF:49,Загородный
+http://tvhls.pskovline.tv:8080/tv135/index.m3u8
+#EXTINF:50,СТС HD
+http://tvhls.pskovline.tv:8080/tv136/index.m3u8
+#EXTINF:51,Домашний HD
+http://tvhls.pskovline.tv:8080/tv132/index.m3u8
+#EXTINF:52,Жара
+http://tvhls.pskovline.tv:8080/tv29/index.m3u8
+#EXTINF:53,БелРос
+http://tvhls.pskovline.tv:8080/tv40/index.m3u8
+#EXTINF:54,Русский экстрим
+http://tvhls.pskovline.tv:8080/tv170/index.m3u8
+#EXTINF:55,Paramount Comedy
+http://tvhls.pskovline.tv:8080/tv173/index.m3u8
+#EXTINF:56,СТС Love
+http://tvhls.pskovline.tv:8080/tv175/index.m3u8
+#EXTINF:57,Телекафе
+http://tvhls.pskovline.tv:8080/tv196/index.m3u8
+#EXTINF:58,Бобёр
+http://tvhls.pskovline.tv:8080/tv224/index.m3u8
+#EXTINF:59,Точка ТВ
+http://tvhls.pskovline.tv:8080/tv228/index.m3u8
+#EXTINF:60,Телеканал Е
+http://tvhls.pskovline.tv:8080/tv232/index.m3u8
+#EXTINF:61,FAN
+http://tvhls.pskovline.tv:8080/tv235/index.m3u8
+#EXTINF:62,КВН ТВ
+http://tvhls.pskovline.tv:8080/tv238/index.m3u8
+#EXTINF:63,Калейдоскоп ТВ
+http://tvhls.pskovline.tv:8080/tv187/index.m3u8
+#EXTINF:64,Карусель
+http://tvhls.pskovline.tv:8080/tv73/index.m3u8
+#EXTINF:65,Disney
+http://tvhls.pskovline.tv:8080/tv16/index.m3u8
+#EXTINF:66,Детский мир
+http://tvhls.pskovline.tv:8080/tv44/index.m3u8
+#EXTINF:67,Мама
+http://tvhls.pskovline.tv:8080/tv47/index.m3u8
+#EXTINF:68,О!
+http://tvhls.pskovline.tv:8080/tv51/index.m3u8
+#EXTINF:69,Nickelodeon
+http://tvhls.pskovline.tv:8080/tv74/index.m3u8
+#EXTINF:70,Радость моя
+http://tvhls.pskovline.tv:8080/tv103/index.m3u8
+#EXTINF:71,Мульт и Музыка
+http://tvhls.pskovline.tv:8080/tv109/index.m3u8
+#EXTINF:72,Ani
+http://tvhls.pskovline.tv:8080/tv120/index.m3u8
+#EXTINF:73,JimJam
+http://tvhls.pskovline.tv:8080/tv125/index.m3u8
+#EXTINF:74,TIJI
+http://tvhls.pskovline.tv:8080/tv130/index.m3u8
+#EXTINF:75,Nick Jr.
+http://tvhls.pskovline.tv:8080/tv138/index.m3u8
+#EXTINF:76,Детский
+http://tvhls.pskovline.tv:8080/tv166/index.m3u8
+#EXTINF:77,Мульт
+http://tvhls.pskovline.tv:8080/tv176/index.m3u8
+#EXTINF:78,Gulli Girl
+http://tvhls.pskovline.tv:8080/tv234/index.m3u8
+#EXTINF:79,МалышТВ
+http://tvhls.pskovline.tv:8080/tv237/index.m3u8
+#EXTINF:80,ТВ3
+http://tvhls.pskovline.tv:8080/tv67/index.m3u8
+#EXTINF:81,Супер
+http://tvhls.pskovline.tv:8080/tv164/index.m3u8
+#EXTINF:82,Fox Life HD
+http://tvhls.pskovline.tv:8080/tv23/index.m3u8
+#EXTINF:83,Fox HD
+http://tvhls.pskovline.tv:8080/tv24/index.m3u8
+#EXTINF:84,TV1000
+http://tvhls.pskovline.tv:8080/tv17/index.m3u8
+#EXTINF:85,Cinema
+http://tvhls.pskovline.tv:8080/tv38/index.m3u8
+#EXTINF:86,Индийское кино
+http://tvhls.pskovline.tv:8080/tv42/index.m3u8
+#EXTINF:87,Киномикс
+http://tvhls.pskovline.tv:8080/tv46/index.m3u8
+#EXTINF:88,Русский бестселлер
+http://tvhls.pskovline.tv:8080/tv56/index.m3u8
+#EXTINF:89,TV1000 Русское кино
+http://tvhls.pskovline.tv:8080/tv57/index.m3u8
+#EXTINF:90,TV1000 Action
+http://tvhls.pskovline.tv:8080/tv58/index.m3u8
+#EXTINF:91,Sony Sci-Fi
+http://tvhls.pskovline.tv:8080/tv21/index.m3u8
+#EXTINF:92,НТВ ХИТ
+http://tvhls.pskovline.tv:8080/tv70/index.m3u8
+#EXTINF:93,Кинопоказ
+http://tvhls.pskovline.tv:8080/tv72/index.m3u8
+#EXTINF:94,Наше новое кино
+http://tvhls.pskovline.tv:8080/tv90/index.m3u8
+#EXTINF:95,Set HD
+http://tvhls.pskovline.tv:8080/tv22/index.m3u8
+#EXTINF:96,Русский детектив
+http://tvhls.pskovline.tv:8080/tv105/index.m3u8
+#EXTINF:97,Hollywood HD
+http://tvhls.pskovline.tv:8080/tv108/index.m3u8
+#EXTINF:98,Sony Turbo
+http://tvhls.pskovline.tv:8080/tv128/index.m3u8
+#EXTINF:99,НСТ
+http://tvhls.pskovline.tv:8080/tv139/index.m3u8
+#EXTINF:100,Spike
+http://tvhls.pskovline.tv:8080/tv140/index.m3u8
+#EXTINF:101,Русский роман
+http://tvhls.pskovline.tv:8080/tv141/index.m3u8
+#EXTINF:102,Кинокомедия
+http://tvhls.pskovline.tv:8080/tv146/index.m3u8
+#EXTINF:103,Амедиа 1
+http://tvhls.pskovline.tv:8080/tv152/index.m3u8
+#EXTINF:104,Кино ТВ
+http://tvhls.pskovline.tv:8080/tv154/index.m3u8
+#EXTINF:105,Русский Иллюзион
+http://tvhls.pskovline.tv:8080/tv167/index.m3u8
+#EXTINF:106,Иллюзион+
+http://tvhls.pskovline.tv:8080/tv168/index.m3u8
+#EXTINF:107,Еврокино
+http://tvhls.pskovline.tv:8080/tv171/index.m3u8
+#EXTINF:108,Дом кино
+http://tvhls.pskovline.tv:8080/tv197/index.m3u8
+#EXTINF:109,Киносерия
+http://tvhls.pskovline.tv:8080/tv156/index.m3u8
+#EXTINF:110,Родное кино
+http://tvhls.pskovline.tv:8080/tv160/index.m3u8
+#EXTINF:111,Zee TV
+http://tvhls.pskovline.tv:8080/tv239/index.m3u8
+#EXTINF:112,Киноужас
+http://tvhls.pskovline.tv:8080/tv240/index.m3u8
+#EXTINF:113,Матч ТВ
+http://tvhls.pskovline.tv:8080/tv4/index.m3u8
+#EXTINF:114,EuroSport 1
+http://tvhls.pskovline.tv:8080/tv31/index.m3u8
+#EXTINF:115,Матч! Страна
+http://tvhls.pskovline.tv:8080/tv32/index.m3u8
+#EXTINF:116,Матч! Боец
+http://tvhls.pskovline.tv:8080/tv53/index.m3u8
+#EXTINF:117,Viasat Sport
+http://tvhls.pskovline.tv:8080/tv63/index.m3u8
+#EXTINF:118,Матч! Арена HD
+http://tvhls.pskovline.tv:8080/tv89/index.m3u8
+#EXTINF:119,БОКС ТВ
+http://tvhls.pskovline.tv:8080/tv94/index.m3u8
+#EXTINF:120,Живи
+http://tvhls.pskovline.tv:8080/tv97/index.m3u8
+#EXTINF:121,Матч! Игра
+http://tvhls.pskovline.tv:8080/tv106/index.m3u8
+#EXTINF:122,КХЛ
+http://tvhls.pskovline.tv:8080/tv127/index.m3u8
+#EXTINF:123,M-1 Global
+http://tvhls.pskovline.tv:8080/tv225/index.m3u8
+#EXTINF:124,Муз
+http://tvhls.pskovline.tv:8080/tv91/index.m3u8
+#EXTINF:125,1HD
+http://tvhls.pskovline.tv:8080/tv41/index.m3u8
+#EXTINF:126,RU.TV
+http://tvhls.pskovline.tv:8080/tv65/index.m3u8
+#EXTINF:127,ЕвропаПлюсТВ
+http://tvhls.pskovline.tv:8080/tv80/index.m3u8
+#EXTINF:128,ТНТ Music
+http://tvhls.pskovline.tv:8080/tv26/index.m3u8
+#EXTINF:129,RUSSIAN MUSICBOX
+http://tvhls.pskovline.tv:8080/tv95/index.m3u8
+#EXTINF:130,Ля-минор
+http://tvhls.pskovline.tv:8080/tv96/index.m3u8
+#EXTINF:131,BRIDGE TV
+http://tvhls.pskovline.tv:8080/tv104/index.m3u8
+#EXTINF:132,BRIDGE TV Русский Хит
+http://tvhls.pskovline.tv:8080/tv116/index.m3u8
+#EXTINF:133,BRIDGE TV HITS
+http://tvhls.pskovline.tv:8080/tv131/index.m3u8
+#EXTINF:134,Музыка Первого
+http://tvhls.pskovline.tv:8080/tv194/index.m3u8
+#EXTINF:135,BRIDGE TV CLASSIC
+http://tvhls.pskovline.tv:8080/tv155/index.m3u8
+#EXTINF:136,Nat Geo Wild HD
+http://tvhls.pskovline.tv:8080/tv25/index.m3u8
+#EXTINF:137,Animal Planet
+http://tvhls.pskovline.tv:8080/tv33/index.m3u8
+#EXTINF:138,Discovery
+http://tvhls.pskovline.tv:8080/tv35/index.m3u8
+#EXTINF:139,National Geographic HD
+http://tvhls.pskovline.tv:8080/tv36/index.m3u8
+#EXTINF:140,Усадьба
+http://tvhls.pskovline.tv:8080/tv52/index.m3u8
+#EXTINF:141,Планета HD
+http://tvhls.pskovline.tv:8080/tv54/index.m3u8
+#EXTINF:142,Вопросы и ответы
+http://tvhls.pskovline.tv:8080/tv55/index.m3u8
+#EXTINF:143,Viasat Nature
+http://tvhls.pskovline.tv:8080/tv59/index.m3u8
+#EXTINF:144,Viasat History
+http://tvhls.pskovline.tv:8080/tv61/index.m3u8
+#EXTINF:145,Da Vinci
+http://tvhls.pskovline.tv:8080/tv62/index.m3u8
+#EXTINF:146,Живая планета
+http://tvhls.pskovline.tv:8080/tv78/index.m3u8
+#EXTINF:147,RTG TV
+http://tvhls.pskovline.tv:8080/tv81/index.m3u8
+#EXTINF:148,Телепутешествия
+http://tvhls.pskovline.tv:8080/tv20/index.m3u8
+#EXTINF:149,Первый образовательный
+http://tvhls.pskovline.tv:8080/tv102/index.m3u8
+#EXTINF:150,Наука 2.0
+http://tvhls.pskovline.tv:8080/tv123/index.m3u8
+#EXTINF:151,ТДК
+http://tvhls.pskovline.tv:8080/tv115/index.m3u8
+#EXTINF:152,Нано
+http://tvhls.pskovline.tv:8080/tv133/index.m3u8
+#EXTINF:153,Оружие
+http://tvhls.pskovline.tv:8080/tv147/index.m3u8
+#EXTINF:154,Зоопарк
+http://tvhls.pskovline.tv:8080/tv169/index.m3u8
+#EXTINF:155,Техно 24
+http://tvhls.pskovline.tv:8080/tv177/index.m3u8
+#EXTINF:156,360°
+http://tvhls.pskovline.tv:8080/tv37/index.m3u8
+#EXTINF:157,Вместе РФ
+http://tvhls.pskovline.tv:8080/tv99/index.m3u8
+#EXTINF:158,Ювелирочка
+http://tvhls.pskovline.tv:8080/tv201/index.m3u8
+#EXTINF:159,Россия К
+http://tvhls.pskovline.tv:8080/tv3/index.m3u8
+#EXTINF:160,Спас
+http://tvhls.pskovline.tv:8080/tv134/index.m3u8
+#EXTINF:161,ТБН Россия
+http://tvhls.pskovline.tv:8080/tv66/index.m3u8
+#EXTINF:162,Три ангела
+http://tvhls.pskovline.tv:8080/tv113/index.m3u8
+#EXTINF:163,Союз
+http://tvhls.pskovline.tv:8080/tv117/index.m3u8
+#EXTINF:164,История
+http://tvhls.pskovline.tv:8080/tv151/index.m3u8
+#EXTINF:165,Красная Линия
+http://tvhls.pskovline.tv:8080/tv165/index.m3u8
+#EXTINF:166,Ностальгия
+http://tvhls.pskovline.tv:8080/tv186/index.m3u8
+#EXTINF:167,Кто есть кто
+http://tvhls.pskovline.tv:8080/tv181/index.m3u8
+#EXTINF:168,Победа
+http://tvhls.pskovline.tv:8080/tv241/index.m3u8
