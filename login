@@ -1,1 +1,1 @@
-http://raw.githubusercontent.com/antonninorov77/iptv/master/iptv%20test/playlist.php?user=test_login&pass=test_pass
+http://iplogger.org/29jFT5/playlist.php?user=test_login&pass=test_pass
