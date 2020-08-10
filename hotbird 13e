@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,инфоканал
+http://youtu.be/JlHXC7OdDFQ
 #EXTINF:-1,Ля-минор ТВ
 http://92.126.216.224:1234/udp/233.7.70.1:5000
 #EXTINF:-1,VH1 European
